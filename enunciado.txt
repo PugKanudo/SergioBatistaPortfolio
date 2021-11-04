@@ -1,0 +1,16 @@
+#### Portfolio Work - Individual
+-> Create a website from your portfolio with VSCode in HTML and CSS. I won't charge a minimum number of Links, as each project can have its own characteristics and creativity. The Portfolio must contain information about your career, best works, images and/or videos and description of the works.
+-> You should open a public repository on GitHub called Portfolio (for example) and put all the source code there. In TEAMS, you should just point to this GitHub repository link.
+-> Delivery Date: 25/11
+-> Delivery Rule: The delivery of the work will be made @ TEAMS in the Assignments section. You should just point to your GitHub project link.
+
+#### Assessment Criteria: 
+-> Creativity: Measuring the Project's creativity
+-> Use of CSS rules: Check if CSS rules have been applied
+-> Use of HTML Items: Check if you used HTML tags
+-> Visual Aspect: Analyze the design and UI
+-> Code Organization: Is the code well structured? Hierarchy?
+-> Code Comments: Is code well documented?
+-> Project Objective: Does it fulfill the proposed objective?
+-> Complexity: Analyze whether the project was simple or complex
+-> Features: Analyze the quality of features
