@@ -1,0 +1,21 @@
+header{
+	display:flex; 
+	justify-content: space-around;
+	padding: 1.5em;
+	background: var(--clr-dark);
+	padding: 0;	
+}
+		
+.logo{
+	max-width: 30px;
+}
+
+@media (max-width: 650px){
+	
+	header{
+		display:block;
+		justify-content:  space-between;
+		background: var(--clr-dark);
+		padding: 30px;
+	}
+}
